@@ -72,4 +72,7 @@ $(".continue-button2").click(function () {
 
 });
 
+$(".submit-button").click(function () {
+    alert("Thank you! Your form has been submitted.");
+});
 
